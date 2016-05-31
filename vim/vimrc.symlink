@@ -12,6 +12,7 @@ colorscheme solarized
 " Misc {{{
 set ttyfast                     " faster redraw
 set backspace=indent,eol,start
+set noeb vb t_vb=
 " }}}
 " Spaces & Tabs {{{
 set tabstop=4           " 4 space tab
